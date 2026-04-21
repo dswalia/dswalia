@@ -20,7 +20,7 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Infrastructure**
 
-<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="GoogleCloud" alt="GoogleCloud" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/googlecloud/googlecloud.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">
+<img title="Azure" alt="Azure" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png">|<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="GoogleCloud" alt="GoogleCloud" width="40px" src="https://avatars.githubusercontent.com/u/2810941?s=200&v=4">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Terraform" alt="Terraform" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/terraform/terraform.png">
 |--|--|--|--|--|--|
 
 **Other Technologies**
